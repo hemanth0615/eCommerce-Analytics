@@ -1,0 +1,38 @@
+.sales-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .sales-header {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .chart-container {
+    margin-bottom: 40px;
+  }
+  
+  .chart-title {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .dropdown-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  
+  .dropdown-label {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .dropdown-select {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+  }
+  

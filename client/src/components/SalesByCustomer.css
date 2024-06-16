@@ -1,0 +1,43 @@
+/* frontend/src/components/Manager.css */
+
+.manager-container {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.title {
+  color: #333;
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.form-label {
+  margin-bottom: 10px;
+}
+
+.form-input {
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.sales-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sale-item {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.sale-info {
+  display: block;
+  margin-bottom: 10px;
+}
